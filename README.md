@@ -1,6 +1,7 @@
 # Brochure
-<img width="2000" height="1414" alt="Beige and Brown Elegant Fashion Brochure (1)" src="https://github.com/user-attachments/assets/ea0ca279-25f6-477a-9417-f66e86cdf306" />
 
+<img width="2000" height="1414" alt="Beige and Brown Elegant Fashion Brochure (3)" src="https://github.com/user-attachments/assets/bac29a7c-62f7-4a5d-8eb5-38c6b07282c8" />
 
-<img width="2000" height="1414" alt="Beige and Brown Elegant Fashion Brochure (2)" src="https://github.com/user-attachments/assets/8ad13686-b8b3-45bd-8c00-47f3ccda72a5" />
+<img width="2000" height="1414" alt="Beige and Brown Elegant Fashion Brochure (4)" src="https://github.com/user-attachments/assets/07eddc13-4adb-45a9-ba09-6d226d421eeb" />
+
 
